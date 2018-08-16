@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et1" type="id" />
+    <item name="et2" type="id" />
+    <item name="tvRes" type="id" />
+    <item name="btn_add" type="id" />
+    <item name="btn_sub" type="id" />
+    <item name="btn_mult" type="id" />
+    <item name="btn_divide" type="id" />
+</resources>
